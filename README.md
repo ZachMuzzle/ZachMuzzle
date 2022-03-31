@@ -5,7 +5,7 @@
  
  # My plans
  
-  * I am currently looking for an intership of some sort to expand my knowledge on the computer science field. I want to learn, grow, and always try to become better within my field
+  * I am currently looking for an intership or entry level job of some sort to expand my knowledge on the computer science field. I want to learn, grow, and always try to become better within my field
     
   # Things I've learned
   
