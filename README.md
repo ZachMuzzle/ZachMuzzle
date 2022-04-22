@@ -13,6 +13,7 @@
   * Java
   * Javascript/Typescript
   * Lisp
+  * Python
   * SQL Oracle
  
  ## I Have Also Worked With a Couple of Frameworks
