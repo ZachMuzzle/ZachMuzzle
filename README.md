@@ -1,4 +1,4 @@
- # About myself
+ # About Myself
  
   * Hi, I’m Zachary Muzzleman. I am a senior computer science major with a concentration in AI/Robotics at the University of Delaware. I love coding and problem solving to find better solutions.
  
@@ -20,7 +20,7 @@
   * Angular
   * Django
     
-  # How to contact me
+  # How to Contact me
   
   * If you would like to speak with me I can be reached at zmuzzlem@udel.edu
 
