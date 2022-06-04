@@ -1,6 +1,6 @@
  # About Myself
  
-  * Hi, I’m Zachary Muzzleman. I am a senior computer science major with a concentration in AI/Robotics at the University of Delaware. I love coding and problem solving to find better solutions.
+  * Hi, I’m Zachary Muzzleman. I am a senior computer science major with a concentration in AI/Robotics at the University of Delaware. I love to code and one of the things I love about it is that there is always something new to learn and improve on.
  
  # My plans
  
