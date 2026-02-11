@@ -1,27 +1,43 @@
- # About Myself
- 
-  * Hi, I’m Zachary Muzzleman. I am a recent graduate of a computer science major with a concentration in AI/Robotics at the University of Delaware. I love to work with technology, programming, and one of the things I love about it is that there is always something new to learn and improve on.
- 
- # My plans
- 
-  * I am currently working as an Assoicate Solutions Developer, but I have always open for new job opportunities to expand my knowledge on the computer science field so I can continune to learn and grow in this field. I would love to work in a field where I can learn new and exciting tools, techonolgies that will help me become a better developer. I have worked some time with websites; including front, backend development, and I quite enjoy it. So I wouldn't mind working in that field as well. But, I am always open to trying and learning new things!
- 
- # Programming Languages I Have Worked With
-  * C Language
-  * CSS
-  * HTML
-  * Java
-  * Javascript/Typescript
-  * Lisp
-  * Python
-  * SQL Oracle
- 
- ## I Have Also Worked With a Couple of Frameworks
-  * Angular
-  * Django
-  * Flask
-    
-  # How to Contact me
-  
-  * If you would like to speak with me I can be reached at zmuzzlem@udel.edu
+# 👋 Hi, I'm Zachary Muzzleman
+### Software Engineer | AI & Robotics Focus | Full-Stack Developer
 
+Passionate about architecting scalable software solutions and exploring the intersection of **Artificial Intelligence**, **Robotics**, and modern **Web Technologies**. I thrive on continuous learning and implementing efficient, maintainable code to solve complex problems.
+
+---
+
+## 🛠️ Technical Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, TypeScript, JavaScript, C, C++, C#, HTML5, CSS3 |
+| **Frameworks** | React, Next.js, Angular, Django, Flask |
+| **Database & Tools** | SQL (Oracle), MySql, SQL Server, Docker, Docker Compose, Playwright, Sentry |
+| **Specialized** | AI/Robotics, Containerization, RESTful APIs, Tailscale Networking |
+
+---
+
+## 🚀 Professional Snapshot
+
+* **Current Role:** Associate Solutions Developer.
+* **Focus:** Building and optimizing end-to-end applications with a focus on seamless user experiences and robust backend logic.
+* **Education:** B.S. in Computer Science with a concentration in **AI and Robotics** from the University of Delaware.
+* **Philosophy:** "Always a student." I am driven by the rapidly evolving nature of technology and constantly seek to integrate emerging tools into my workflow.
+
+---
+
+## 📈 Featured Projects & Goals
+
+* **Full-Stack Development:** Experienced in building responsive frontends and secure, performant backends.
+* **Automation & Testing:** Utilizing tools like **Playwright** and **Docker** to ensure high-quality, reproducible deployment environments.
+* **AI & Robotics:** Applying academic foundations to real-world software logic and automation.
+* **Growth:** Actively seeking opportunities to contribute to innovative teams and tackle new engineering challenges.
+
+---
+
+## 📫 Let's Connect!
+
+I am always open to discussing new opportunities, collaborating on projects, or talking tech.
+
+* **Email:** [zmuzzlem@gmail.com](mailto:zmuzzlem@gmail.com)
+* **GitHub:** [https://github.com/ZachMuzzle]
+* **LinkedIn:** [https://www.linkedin.com/in/zachary-muzzleman/]
