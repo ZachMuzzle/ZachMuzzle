@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Zachary Muzzleman
+#  Hi, I'm Zachary Muzzleman
 ### Software Engineer | AI & Robotics Focus | Full-Stack Developer
 
 Passionate about architecting scalable software solutions and exploring the intersection of **Artificial Intelligence**, **Robotics**, and modern **Web Technologies**. I thrive on continuous learning and implementing efficient, maintainable code to solve complex problems.
 
 ---
 
-## 🛠️ Technical Toolbox
+## Technical Toolbox
 
 | Category | Technologies |
 | :--- | :--- |
@@ -16,7 +16,7 @@ Passionate about architecting scalable software solutions and exploring the inte
 
 ---
 
-## 🚀 Professional Snapshot
+## Professional Snapshot
 
 * **Current Role:** Associate Solutions Developer.
 * **Focus:** Building and optimizing end-to-end applications with a focus on seamless user experiences and robust backend logic.
@@ -25,7 +25,7 @@ Passionate about architecting scalable software solutions and exploring the inte
 
 ---
 
-## 📈 Featured Projects & Goals
+## Featured Projects & Goals
 
 * **Full-Stack Development:** Experienced in building responsive frontends and secure, performant backends.
 * **Automation & Testing:** Utilizing tools like **Playwright** and **Docker** to ensure high-quality, reproducible deployment environments.
@@ -34,7 +34,7 @@ Passionate about architecting scalable software solutions and exploring the inte
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 I am always open to discussing new opportunities, collaborating on projects, or talking tech.
 
